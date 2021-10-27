@@ -1,0 +1,2 @@
+# HMSSceneKit
+Have you ever wondered how they create these applications with 3d rendered elements or augmented reality apps. Have you even wondered how it works to carry out a project with facial recognition and are you interested in creating something with these elements? If you have answered with a yes to some of these questions Scene Kit is the solution for you. HMS provides this capability to add these elements to your project.
